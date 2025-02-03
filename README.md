@@ -10,7 +10,7 @@
 <p align="center">🎥 <strong>Canal de YouTube:</strong> <a href="https://www.youtube.com/@neisercp">Neiser CP</a></p>
 
 <p align="center">
-  <a href="https://github.com/deitercustodio"><img src="https://img.shields.io/github/followers/deitercustodio?label=Follow%20@deitercustodio&style=social"></a>
+  <a href="https://github.com/deitercustodio"><img src="https://img.shields.io/github/followers/neiserdeveloper?label=Follow%20@deitercustodio&style=social"></a>
 </p>
 
 <h3>👨‍💻 Proyectos Recientes</h3>
