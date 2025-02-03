@@ -5,7 +5,7 @@
 
 <h2 align="center">Desarrollador de Software</h2>
 
-<p align="center">Hola, soy Deiter Custodio. Desarrollador de software con experiencia en tecnologías modernas y en la creación de aplicaciones escalables y eficientes. Especializado en <strong>NestJS, Java, Angular, React</strong> y <strong>Google Cloud</strong>. </p>
+<p align="center">Hola, soy Neiser Custodio. Desarrollador de software con experiencia en tecnologías modernas y en la creación de aplicaciones escalables y eficientes. Especializado en <strong>NestJS, Java, Angular, React</strong> y <strong>Google Cloud</strong>. </p>
 
 <p align="center">🎥 <strong>Canal de YouTube:</strong> <a href="https://www.youtube.com/@neisercp">Neiser CP</a></p>
 
