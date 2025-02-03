@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/32179085?v=4" alt="Deiter Custodio" style="border-radius: 50%">
 </p>
 
-<h2 align="center">Desarrollador de Software Peruano</h2>
+<h2 align="center">Desarrollador de Software</h2>
 
 <p align="center">Hola, soy Deiter Custodio. Desarrollador de software con experiencia en tecnologías modernas y en la creación de aplicaciones escalables y eficientes. Especializado en <strong>NestJS, Java, Angular, React</strong> y <strong>Google Cloud</strong>. </p>
 
@@ -27,8 +27,8 @@
 
 <h3>📫 Cómo contactarme:</h3>
 
-- **Correo**: deitercustodio@ejemplo.com
-- **LinkedIn**: [Deiter Custodio](https://www.linkedin.com/in/deitercustodio)
+- **Correo**: neyser995p@gmail.com
+- **LinkedIn**: [Deiter Custodio](https://www.linkedin.com/in/neisercustodio)
 
 <h3>📚 Intereses Personales</h3>
 
