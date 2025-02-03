@@ -1,6 +1,6 @@
 <h1 align="center">Deiter Custodio</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/32179085?v=4" alt="Deiter Custodio" width="120" style="border-radius: 50%">
+  <img src="https://avatars.githubusercontent.com/u/32179085?v=4" alt="Deiter Custodio" width="110" style="border-radius: 50%">
 </p>
 
 <h2 align="center">Desarrollador de Software</h2>
